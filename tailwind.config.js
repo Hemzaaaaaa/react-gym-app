@@ -10,10 +10,13 @@ export default {
         primary: "#ff8901",
         secondary: "#fb923c",
       },
+      fontFamily: {
+        playfair: ["Playfair Display", "serif"],
+      },
       container: {
         center: true,
         padding: {
-          DEFAULT:'1rem',
+          DEFAULT: '1rem',
           sm: '2rem',
           lg: '4rem',
           xl: '5rem',
